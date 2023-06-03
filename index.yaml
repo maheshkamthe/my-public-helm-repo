@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://github.com/maheshkamthe/my-public-helm-repo/mychart-0.1.0.tgz
+    - https://maheshkamthe.github.io/my-public-helm-repo/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-03T11:11:33.4966612+05:30"
